@@ -5,3 +5,5 @@ app/db.sqlite3
 .idea/
 .env.prod
 .env.prod.db
+app/accounts/migrations
+app/posts/migrations
